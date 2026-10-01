@@ -1,3 +1,6 @@
+API_KEY = "sk-live-abc123xyz789secretkey"
+
+
 def add(a: int, b: int) -> int:
     return a + b
 
